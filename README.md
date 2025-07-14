@@ -9,7 +9,7 @@ A dynamic financial model built in **Excel** to analyze and forecast financial p
 -  Scenario Forecasting with base, strong, and weak cases
 -  Sensitivity Analysis using revenue, gross, and operating margins
 
-## 🛠 Features
+##  Features
 - Drop-down driven dynamic dashboards
 - Financial KPIs: Revenue, Cost, Gross Profit, EBIT
 - Sector-based risk/volatility model using standard deviation
