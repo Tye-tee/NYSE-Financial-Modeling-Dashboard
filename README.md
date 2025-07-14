@@ -23,7 +23,8 @@ A dynamic financial model built in **Excel** to analyze and forecast financial p
 - Standard deviation calculations for risk analysis
 
 ##  Preview
->  <img width="1409" height="567" alt="image" src="https://github.com/user-attachments/assets/608f10c9-d6aa-407b-9d9b-f8ab0bc3c676" />
+>  <img width="1300" height="567" alt="image" src="https://github.com/user-attachments/assets/83134ce9-5146-4444-a124-538cfe6877f0" />
+
 
 ##  Future Improvements
 - Integrate Power Query for real-time NYSE data
