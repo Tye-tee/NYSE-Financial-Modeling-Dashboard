@@ -4,7 +4,7 @@ A dynamic financial model built in **Excel** to analyze and forecast financial p
 
 ---
 ##  What's Inside
--  **NYSE Data Analysis.xlsx** — The dynamic financial model
+-  [**NYSE Data Analysis.xlsx**](https://1drv.ms/x/c/18593756cf7a242d/Eab9qFLd3jxFgSreaqO8YrIB04dXq1wC34I_5-e-FBVyOA?e=VpjZID) — The dynamic financial model
 -  Dynamic P&L Dashboards by Ticker
 -  Scenario Forecasting with base, strong, and weak cases
 -  Sensitivity Analysis using revenue, gross, and operating margins
