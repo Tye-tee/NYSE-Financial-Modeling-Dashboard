@@ -25,6 +25,19 @@ A dynamic financial model built in **Excel** to analyze and forecast financial p
 ##  Preview
 >  <img width="1300" height="567" alt="image" src="https://github.com/user-attachments/assets/83134ce9-5146-4444-a124-538cfe6877f0" />
 
+## Problem & Business Impact
+
+Financial analysts and investors often face challenges in assessing company performance and forecasting future growth due to fragmented data, lack of dynamic scenario modeling, and static reporting tools. Static models often fail to capture the uncertainty and variability in business outcomes, limiting the ability to make timely and strategic decisions. This project addresses that gap by developing a flexible forecasting solution for NYSE-listed companies:
+
+- Users can select any company via its NYSE ticker symbol.
+- The model calculates key financial & operational metrics using summary statistics
+-  Uses historical data trends to forecast future outcomes
+- It generates forecasts using three customizable scenarios: strong, weak, and base cases.
+- Forecasting spans 1–2 years ahead, giving teams a forward-looking view of potential revenue paths
+- Communicating findings through interactive dashboards and visual reports
+
+
+This solution enables financial teams to compare outcomes across multiple economic conditions, empowering product, finance, and strategy teams to make informed, data-driven decisions on how to optimize for growth, mitigate risk, or reallocate resources
 
 ##  Future Improvements
 - Integrate Power Query for real-time NYSE data
