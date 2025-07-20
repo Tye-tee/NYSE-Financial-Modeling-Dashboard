@@ -38,7 +38,3 @@ Financial analysts and investors often face challenges in assessing company perf
 
 
 This solution enables financial teams to compare outcomes across multiple economic conditions, empowering product, finance, and strategy teams to make informed, data-driven decisions on how to optimize for growth, mitigate risk, or reallocate resources
-
-##  Future Improvements
-- Integrate Power Query for real-time NYSE data
-- Add macros to generate scenario reports
