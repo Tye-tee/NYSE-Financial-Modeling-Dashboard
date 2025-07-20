@@ -37,4 +37,43 @@ Financial analysts and investors often face challenges in assessing company perf
 - Communicating findings through interactive dashboards and visual reports
 
 
-This solution enables financial teams to compare outcomes across multiple economic conditions, empowering product, finance, and strategy teams to make informed, data-driven decisions on how to optimize for growth, mitigate risk, or reallocate resources
+## Analysis Workflow
+Data Cleaning & Preparation
+
+- Started with a pre-cleaned NYSE dataset provided by the Udacity Business Analytics team (original Kaggle dataset).
+
+- Performed additional cleaning in Excel:
+
+- Replaced missing values and removed special characters using Find and Replace.
+  
+- Standardized ticker symbols and applied Data Validation to eliminate duplicates.
+
+- Selected relevant sub-industries for deeper analysis: Biotechnology, P&C Insurance, Life & Health, and Pharmaceuticals.
+________________________________________
+2. Exploratory Data Analysis (EDA)
+- Generated a summary statistics table for Total Revenue grouped by industry and sub-industry:
+
+- Included Sum, Average, Median, Standard Deviation, Minimum, Maximum, Variance, and Range.
+  
+- Used Pivot Tables and Filter functions to isolate and compare financial performance of the selected sub-industries.
+  
+- Created bar charts to visualize average Total Revenue over a 4-year period (2013–2016), highlighting key revenue trends and outliers by sector.
+________________________________________
+3. Profit & Loss (P&L) Dashboard – Dynamic
+-	Built a dynamic P&L dashboard in Excel that updates based on selected ticker symbol via drop-down menu.
+
+- Dashboard included dynamic calculations of: - Gross Profit - Operating Profit - Cost of Goods Sold (COGS)
+- Used INDEX-MATCH, INDIRECT, and named ranges to ensure dynamic response to user-selected tickers.
+________________________________________
+4. Forecasting Model – Scenario Planning
+-	Selected Celgene (Ticker: CELG) as the company for scenario-based financial forecasting.
+-	Key business question: "How do we expect revenue growth and operating profit to change under different market conditions?"
+-	Built a two-year forecast model with:
+-	Three scenarios: Strong, Base, and Weak.
+-	Scenario selection via drop-down list, dynamically changing all related assumptions.
+- Applied OFFSET and MATCH functions to update Revenue Growth, Gross Margin, and Operating Margin across scenarios.
+- Combined formulas with multiplication logic to dynamically model Gross Profit and Operating Profit outcomes under each case.
+
+
+
+This solution enables financial teams to compare outcomes across multiple economic conditions, empowering product, finance, and strategy teams to make informed, data-driven decisions on how to optimize for growth, mitigate risk, or reallocate resources.
